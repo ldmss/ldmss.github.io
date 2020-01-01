@@ -1,0 +1,211 @@
+url: http://ldmss.github.io
+baseurl: ""
+
+# Site settings
+title: LDMSS
+email: ldmss@protonmail.com
+description: "Learning and decision making summer school for cognitive and behavioural scientists."
+
+
+# Team names, titles and social links
+directors:
+- name: Hrvoje Stojic
+  pic: 1
+  position: University College London / Prowler.io
+  social:
+    - title: home
+      url: http://hstojic.re
+    - title: envelope
+      url: mailto:hrvoje.stojic@protonmail.com
+    - title: twitter
+      url: https://twitter.com/HrvojeStojic
+    - title: github
+      url: https://github.com/hstojic
+
+- name: Pantelis P. Analytis
+  pic: 2
+  position: University of Southern Denmark
+  social:
+    - title: home
+      url: https://danish-ias.dk/people/pantelis-pipergias-analytis/
+    - title: envelope
+      url: mailto:pantelis@sam.sdu.dk
+    - title: twitter
+      url: https://twitter.com/pantelispa
+
+- name: Emmanouil Konstantinidis
+  pic: 3
+  position: University of Warwick
+  social:
+    - title: home
+      url: https://business.leeds.ac.uk/divisions-management/staff/320/dr-emmanouil-konstantinidis
+    - title: envelope
+      url: mailto:E.Konstantinidis@leeds.ac.uk
+    - title: twitter
+      url: #
+
+- name: Mikhail Spektor
+  pic: 4
+  position: Universitat Pompeu Fabra
+  social:
+    - title: home
+      url: https://msspektor.github.io/
+    - title: envelope
+      url: mailto:mikhail.spektor@upf.edu
+    - title: twitter
+      url: https://twitter.com/SpektorMikhail
+    
+- name: Gael Le Mens
+  pic: 5
+  position: Universitat Pompeu Fabra
+  social:
+    - title: home
+      url: https://sites.google.com/view/gael-le-mens/
+    - title: envelope
+      url: mailto:gael.lemens@upf.edu
+    - title: twitter
+      url: #
+
+faculty:
+- name: Gael Le Mens
+  pic: 5
+  position: Universitat Pompeu Fabra
+  social:
+    - title: home
+      url: https://sites.google.com/view/gael-le-mens/
+    - title: envelope
+      url: mailto:gael.lemens@upf.edu
+    - title: twitter
+      url: #
+- name: Mirta Galesic
+  pic: 6
+  position: Santa Fe Institute
+  social:
+    - title: home
+      url: https://sites.google.com/site/mirtagalesic/
+    - title: envelope
+      url: mailto:galesic@santafe.edu
+    - title: twitter
+      url: #      
+- name: Henrik Olsson
+  pic: 7
+  position: Santa Fe Institute
+  social:
+    - title: home
+      url: https://www.santafe.edu/people/profile/henrik-olsson
+    - title: envelope
+      url: mailto:olsson@santafe.edu
+    - title: twitter
+      url: #      
+- name: Maarten Speekenbrink
+  pic: 8
+  position: University College London
+  social:
+    - title: home
+      url: https://speekenbrink-lab.github.io/
+    - title: envelope
+      url: mailto:m.speekenbrink@ucl.ac.uk
+    - title: twitter
+      url: https://twitter.com/MaartenSpeek    
+- name: Johannes Müller-Trede
+  pic: 9
+  position: IESE Business School
+  social:
+    - title: home
+      url: https://www.iese.edu/faculty-research/faculty/johannes-muller-trede/
+    - title: envelope
+      url: mailto:jmuller@iese.edu
+    - title: twitter
+      url: #     
+- name: Emmanouil Konstantinidis
+  pic: 3
+  position: University of Warwick
+  social:
+    - title: home
+      url: https://business.leeds.ac.uk/divisions-management/staff/320/dr-emmanouil-konstantinidis
+    - title: envelope
+      url: mailto:E.Konstantinidis@leeds.ac.uk
+    - title: twitter
+      url: #
+- name: Elliot Wimmer
+  pic: 10
+  position: University College London
+  social:
+    - title: home
+      url: https://www.sites.google.com/site/gelliottwimmer/
+    - title: envelope
+      url: mailto:e.wimmer@ucl.ac.uk
+    - title: twitter
+      url: https://twitter.com/gelliott_wimmer      
+- name: Mehdi Keramati
+  pic: 11
+  position: City University
+  social:
+    - title: home
+      url: https://www.city.ac.uk/people/academics/mehdi-keramati
+    - title: envelope
+      url: mailto:mehdi.keramati@city.ac.uk
+    - title: twitter
+      url: #  
+- name: Elizaveta Konovalova
+  pic: 12
+  position: Max Planck Institute for Human Development
+  social:
+    - title: home
+      url: https://elizavetakonovalova.wordpress.com/
+    - title: envelope
+      url: mailto:konovalova@mpib-berlin.mpg.de
+    - title: twitter
+      url: #   
+- name: Hrvoje Stojic
+  pic: 1
+  position: University College London / Prowler.io
+  social:
+    - title: home
+      url: http://hstojic.re
+    - title: envelope
+      url: mailto:hrvoje.stojic@protonmail.com
+    - title: twitter
+      url: https://twitter.com/HrvojeStojic
+    - title: github
+      url: https://github.com/hstojic
+- name: Pantelis P. Analytis
+  pic: 2
+  position: University of Southern Denmark
+  social:
+    - title: home
+      url: https://danish-ias.dk/people/pantelis-pipergias-analytis/
+    - title: envelope
+      url: mailto:pantelis@sam.sdu.dk
+    - title: twitter
+      url: https://twitter.com/pantelispa
+- name: Mikhail Spektor
+  pic: 4
+  position: Universitat Pompeu Fabra
+  social:
+    - title: home
+      url: https://msspektor.github.io/
+    - title: envelope
+      url: mailto:mikhail.spektor@upf.edu
+    - title: twitter
+      url: https://twitter.com/SpektorMikhail
+    
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/ldmss
+  
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md 
+  - .gitignore
