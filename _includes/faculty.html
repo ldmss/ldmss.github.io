@@ -4,12 +4,12 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Confirmed Faculty</h2>
-                    <h3 class="section-subheading text-muted">People that will do their best to share their wisdom with you.</h3>
+                    <h3 class="section-subheading text-muted">People that will do their best to share with you some of their knowledge.</h3>
                 </div>
             </div>
             <div class="row">
                 {% for member in site.faculty %}
-                <div class="col-sm-3">
+                <div class="col-lg-6 col-md-4 col-sm-3 col-xs-1">
                     <div class="team-member">
                         <img src="img/faculty/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
