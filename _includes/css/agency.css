@@ -432,6 +432,10 @@ section h3.section-subheading {
     }
 }
 
+.venue-image {
+    padding: 2%;
+}
+
 .timeline {
     position: relative;
     padding: 0;
@@ -505,6 +509,10 @@ section h3.section-subheading {
     margin-top: 12px;
     font-size: 10px;
     line-height: 14px;
+}
+
+a.timeline-image-text {
+    color: #fff;
 }
 
 .timeline>li.timeline-inverted>.timeline-panel {

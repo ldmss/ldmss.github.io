@@ -27,11 +27,9 @@ directors:
       url: https://business.leeds.ac.uk/divisions-management/staff/320/dr-emmanouil-konstantinidis
     - title: envelope
       url: mailto:E.Konstantinidis@leeds.ac.uk
-    - title: twitter
-      url: #
 - name: Hrvoje Stojic
   pic: 1
-  position: University College London / Prowler.io
+  position: University College London
   social:
     - title: home
       url: http://hstojic.re
@@ -39,8 +37,6 @@ directors:
       url: mailto:hrvoje.stojic@protonmail.com
     - title: twitter
       url: https://twitter.com/HrvojeStojic
-    - title: github
-      url: https://github.com/hstojic
 - name: Mikhail Spektor
   pic: 4
   position: Universitat Pompeu Fabra
@@ -59,8 +55,6 @@ directors:
       url: https://sites.google.com/view/gael-le-mens/
     - title: envelope
       url: mailto:gael.lemens@upf.edu
-    - title: twitter
-      url: #
 
 faculty:
 - name: Jörg Rieskamp
@@ -121,7 +115,7 @@ faculty:
       url: https://business.leeds.ac.uk/divisions-management/staff/320/dr-emmanouil-konstantinidis
     - title: envelope
       url: mailto:E.Konstantinidis@leeds.ac.uk
-- name: Elliot Wimmer
+- name: G. Elliot Wimmer
   pic: 10
   position: University College London
   social:
@@ -149,7 +143,7 @@ faculty:
       url: mailto:konovalova@mpib-berlin.mpg.de
 - name: Hrvoje Stojic
   pic: 1
-  position: University College London / Prowler.io
+  position: University College London
   social:
     - title: home
       url: http://hstojic.re
@@ -157,8 +151,6 @@ faculty:
       url: mailto:hrvoje.stojic@protonmail.com
     - title: twitter
       url: https://twitter.com/HrvojeStojic
-    - title: github
-      url: https://github.com/hstojic
 - name: Pantelis P. Analytis
   pic: 2
   position: University of Southern Denmark
