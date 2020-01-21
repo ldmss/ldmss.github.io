@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: rgba(0,0,0,0.7);
 }
 
 .navbar-default .navbar-brand {
@@ -208,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
+    font-weight: 600;
     letter-spacing: 1px;
     color: #fff;
     -webkit-transition: all ease .35s;
@@ -235,17 +235,21 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width:768px) {
+    .navbar-default .nav li a {
+        font-size: 0.7em;
+    }
+
     .navbar-default {
-        padding: 25px 0;
+        padding: 5px 0;
         border: 0;
-        background-color: transparent;
+        background-color: rgba(0,0,0,0.2);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 1.4em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -257,11 +261,21 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgba(0,0,0,0.7);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.4em;
+    }
+}
+
+@media(min-width:1024px) {
+    .navbar-default .nav li a {
+        font-size: 1em;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
     }
 }
 
@@ -285,22 +299,23 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
-    font-size: 50px;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 35px;
     font-style: italic;
-    line-height: 50px;
+    font-weight: 700;
+    line-height: 35px;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 20px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 20px;
 }
 
-@media(min-width:768px) {
+@media(min-width:600px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -308,19 +323,45 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 50px;
         font-style: italic;
-        line-height: 40px;
+        font-weight: 600;
+        line-height: 50px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+}
+
+@media(min-width:1025px) {
+    header .intro-text {
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }
+
+    header .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 70px;
+        font-style: italic;
         font-weight: 700;
-        line-height: 75px;
+        line-height: 70px;
+    }
+
+    header .intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 55px;
+        font-weight: 700;
+        line-height: 55px;
     }
 }
 
@@ -331,7 +372,7 @@ section {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 section h3.section-subheading {
@@ -346,6 +387,10 @@ section h3.section-subheading {
 @media(min-width:768px) {
     section {
         padding: 150px 0;
+    }
+
+    section h2.section-heading {
+        font-size: 40px;
     }
 }
 
