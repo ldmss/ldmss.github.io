@@ -27,6 +27,8 @@ directors:
       url: https://business.leeds.ac.uk/divisions-management/staff/320/dr-emmanouil-konstantinidis
     - title: envelope
       url: mailto:E.Konstantinidis@leeds.ac.uk
+    - title: twitter
+      url: https://twitter.com/manoskon
 - name: Hrvoje Stojic
   pic: 1
   position: University College London
@@ -115,6 +117,8 @@ faculty:
       url: https://business.leeds.ac.uk/divisions-management/staff/320/dr-emmanouil-konstantinidis
     - title: envelope
       url: mailto:E.Konstantinidis@leeds.ac.uk
+    - title: twitter
+      url: https://twitter.com/manoskon
 - name: G. Elliot Wimmer
   pic: 10
   position: University College London
