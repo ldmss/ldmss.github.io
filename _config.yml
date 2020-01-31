@@ -1,4 +1,5 @@
-url: http://ldmss.github.io
+url: https://ldmss.github.io
+enforce_ssl: ldmss.github.io
 baseurl: ""
 
 # Site settings
