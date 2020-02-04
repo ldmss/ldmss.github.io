@@ -60,14 +60,14 @@ directors:
       url: mailto:gael.lemens@upf.edu
 
 faculty:
-# - name: Jörg Rieskamp
-#   pic: 13
-#   position: University of Basel
-#   social:
-#     - title: home
-#       url: https://psychologie.unibas.ch/de/personen/joerg-rieskamp/about-me/
-#     - title: envelope
-#       url: mailto:joerg.rieskamp@unibas.ch
+- name: Jörg Rieskamp
+  pic: 13
+  position: University of Basel
+  social:
+    - title: home
+      url: https://psychologie.unibas.ch/de/personen/joerg-rieskamp/about-me/
+    - title: envelope
+      url: mailto:joerg.rieskamp@unibas.ch
 - name: Gael Le Mens
   pic: 5
   position: Universitat Pompeu Fabra
