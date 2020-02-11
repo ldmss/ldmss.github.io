@@ -176,6 +176,14 @@ faculty:
       url: mailto:mikhail.spektor@upf.edu
     - title: twitter
       url: https://twitter.com/SpektorMikhail
+- name: Cecilia Nunes
+  pic: 14
+  position: Universitat Pompeu Fabra
+  social:
+    - title: envelope
+      url: mailto:cecilia.nunes@upf.edu
+    - title: twitter
+      url: https://twitter.com/cecil_nunes
     
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
