@@ -32,7 +32,7 @@ directors:
       url: https://twitter.com/manoskon
 - name: Hrvoje Stojic
   pic: 1
-  position: University College London
+  position: Secondmind
   social:
     - title: home
       url: http://hstojic.re
@@ -60,14 +60,6 @@ directors:
       url: mailto:gael.lemens@upf.edu
 
 faculty:
-- name: Jörg Rieskamp
-  pic: 13
-  position: University of Basel
-  social:
-    - title: home
-      url: https://psychologie.unibas.ch/de/personen/joerg-rieskamp/about-me/
-    - title: envelope
-      url: mailto:joerg.rieskamp@unibas.ch
 - name: Gael Le Mens
   pic: 5
   position: Universitat Pompeu Fabra
@@ -76,14 +68,6 @@ faculty:
       url: https://sites.google.com/view/gael-le-mens/
     - title: envelope
       url: mailto:gael.lemens@upf.edu
-- name: Mirta Galesic
-  pic: 6
-  position: Santa Fe Institute
-  social:
-    - title: home
-      url: https://www.santafe.edu/people/profile/mirta-galesic
-    - title: envelope
-      url: mailto:galesic@santafe.edu 
 - name: Maarten Speekenbrink
   pic: 8
   position: University College London
@@ -93,23 +77,15 @@ faculty:
     - title: envelope
       url: mailto:m.speekenbrink@ucl.ac.uk
     - title: twitter
-      url: https://twitter.com/MaartenSpeek    
-- name: Johannes Müller-Trede
-  pic: 9
-  position: IESE Business School
+      url: https://twitter.com/MaartenSpeek  
+- name: Kinneret Teodorescu
+  pic: 16
+  position: Technion - Israel Institute of Technology
   social:
     - title: home
-      url: https://www.iese.edu/faculty-research/faculty/johannes-muller-trede/
+      url: https://web.iem.technion.ac.il/site/academicstaff/kinneret-teodorescu/
     - title: envelope
-      url: mailto:jmuller@iese.edu  
-- name: Henrik Olsson
-  pic: 7
-  position: Santa Fe Institute
-  social:
-    - title: home
-      url: https://www.santafe.edu/people/profile/henrik-olsson
-    - title: envelope
-      url: mailto:olsson@santafe.edu   
+      url: mailto:kinnerett@technion.ac.il
 - name: Emmanouil Konstantinidis
   pic: 3
   position: University of Warwick
@@ -120,32 +96,16 @@ faculty:
       url: mailto:E.Konstantinidis@leeds.ac.uk
     - title: twitter
       url: https://twitter.com/manoskon
-- name: G. Elliot Wimmer
-  pic: 10
-  position: University College London
+- name: Antonia Krefeld-Schwalb
+  pic: 15
+  position: Rotterdam School of Management - Erasmus University
   social:
     - title: home
-      url: https://www.sites.google.com/site/gelliottwimmer/
+      url: https://www.antoniakrefeldschwalb.com/
     - title: envelope
-      url: mailto:e.wimmer@ucl.ac.uk
+      url: mailto:a.krefeldschwalb@gmail.com
     - title: twitter
-      url: https://twitter.com/gelliott_wimmer      
-- name: Mehdi Keramati
-  pic: 11
-  position: City University
-  social:
-    - title: home
-      url: https://www.city.ac.uk/people/academics/mehdi-keramati
-    - title: envelope
-      url: mailto:mehdi.keramati@city.ac.uk
-- name: Elizaveta Konovalova
-  pic: 12
-  position: Max Planck Institute for Human Development
-  social:
-    - title: home
-      url: https://elizavetakonovalova.wordpress.com/
-    - title: envelope
-      url: mailto:konovalova@mpib-berlin.mpg.de
+      url: https://twitter.com/@AntoniaKrefeld
 - name: Hrvoje Stojic
   pic: 1
   position: University College London
@@ -176,15 +136,7 @@ faculty:
       url: mailto:mikhail.spektor@upf.edu
     - title: twitter
       url: https://twitter.com/SpektorMikhail
-- name: Cecilia Nunes
-  pic: 14
-  position: Universitat Pompeu Fabra
-  social:
-    - title: envelope
-      url: mailto:cecilia.nunes@upf.edu
-    - title: twitter
-      url: https://twitter.com/cecil_nunes
-    
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
