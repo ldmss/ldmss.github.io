@@ -116,16 +116,16 @@ faculty:
       url: mailto:hrvoje.stojic@protonmail.com
     - title: twitter
       url: https://twitter.com/HrvojeStojic
-- name: Pantelis P. Analytis
-  pic: 2
-  position: University of Southern Denmark
+- name: Sophie Bavard
+  pic: 17
+  position: University of Hamburg
   social:
     - title: home
-      url: https://danish-ias.dk/people/pantelis-pipergias-analytis/
+      url: https://sophiebavard.wixsite.com/research
     - title: envelope
-      url: mailto:pantelis@sam.sdu.dk
+      url: mailto:sophie.bavard@gmail.com
     - title: twitter
-      url: https://twitter.com/pantelispa
+      url: https://twitter.com/sophiebavard
 - name: Mikhail Spektor
   pic: 4
   position: Universitat Pompeu Fabra
@@ -136,6 +136,16 @@ faculty:
       url: mailto:mikhail.spektor@upf.edu
     - title: twitter
       url: https://twitter.com/SpektorMikhail
+- name: Pantelis P. Analytis
+  pic: 2
+  position: University of Southern Denmark
+  social:
+    - title: home
+      url: https://danish-ias.dk/people/pantelis-pipergias-analytis/
+    - title: envelope
+      url: mailto:pantelis@sam.sdu.dk
+    - title: twitter
+      url: https://twitter.com/pantelispa
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
