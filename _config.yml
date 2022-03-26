@@ -146,6 +146,16 @@ faculty:
       url: mailto:pantelis@sam.sdu.dk
     - title: twitter
       url: https://twitter.com/pantelispa
+- name: Paula Parpart
+  pic: 18
+  position: University of Oxford
+  social:
+    - title: home
+      url: https://paulaparpart.github.io/
+    - title: envelope
+      url: mailto:paula.parpart@psy.ox.ac.uk
+    - title: twitter
+      url: https://twitter.com/PParpart
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
