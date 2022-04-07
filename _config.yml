@@ -136,6 +136,14 @@ faculty:
       url: mailto:mikhail.spektor@upf.edu
     - title: twitter
       url: https://twitter.com/SpektorMikhail
+- name: Thuy Ngoc Nguyen
+  pic: 19
+  position: Carnegie Mellon University
+  social:
+    - title: home
+      url: https://ngocntkt.github.io/
+    - title: envelope
+      url: mailto:ngocnt@cmu.edu
 - name: Pantelis P. Analytis
   pic: 2
   position: University of Southern Denmark
